@@ -3,5 +3,5 @@
   <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Portfolio&descAlign=59&section=header">
 
 
-[![MAIN](https://img.shields.io/badge/MAIN?style=plastic&logo=GitHub&logoColor=white&labelColor=black)](https://github.com/skwjdgh/)
+[![MAIN](https://img.shields.io/badge/MAIN?style=plastic&logo=C&logoColor=white&labelColor=black)](https://github.com/skwjdgh/)
 
